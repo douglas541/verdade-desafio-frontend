@@ -1,10 +1,10 @@
 #button-container a {
-   width: 18rem;
+   width: 16rem;
    height: 6rem;
    border-radius: 6px;
    background: var(--color-button);
 
-   font-size: 2rem;
+   font-size: 1.8rem;
    font-family: 'Montserrat', sans-serif;
    font-weight: 500;
    text-decoration: none;

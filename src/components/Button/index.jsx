@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 export default function Button(props) {
    return (
       <div id="button-container">
-         <Link to={props.rota}>{props.text}</Link>
+         <Link {...props}>{props.text}</Link>
       </div>
    );
 }

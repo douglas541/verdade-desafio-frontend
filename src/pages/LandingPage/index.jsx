@@ -9,10 +9,10 @@ export default function LandingPage() {
       <div id="container">
          <div id="content">
             <h1>VERDADE OU DESAFIO</h1>
-            <img src={LandingImg}></img>
+            <img src={LandingImg} alt="Imagem de fundo"></img>
             <Button
                text="Criar sala"
-               rota="/pregame"
+               to="/pregame"
             />
          </div>
       </div>
