@@ -4,8 +4,13 @@ button {
    height: 6.2rem;
    padding: 0;
    outline: none;
+   border: none;
 }
 
-img {
+button:focus{
+   border: 3px solid #D2691E;
+}
+
+button img {
    width: 100%;
 }
