@@ -1,0 +1,11 @@
+button {
+   border-radius: 100%;
+   width: 6.2rem;
+   height: 6.2rem;
+   padding: 0;
+   outline: none;
+}
+
+img {
+   width: 100%;
+}

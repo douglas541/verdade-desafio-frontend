@@ -46,10 +46,6 @@
    background: var(--color-background-secondary);
 }
 
-.avatar.container img {
-   width: 6.2rem;
-}
-
 .nickname.container {
    width: 100%;
    display: flex;
